@@ -24,3 +24,4 @@ The importance of a long-term, highly powerful battery for patients with heart f
 How the dip but sudden 'bounce-back' spike in car sales has had a ripple effect on the rest of the planet's companies that need computer chips during the COVID pandemic.
 The WordPress essential training course showcased the variety of webpages you can create via text blocks, image and other media blocks, column blocks, embed blocks, group blocks, and block manager. Through the videos, it becomes clear how easy it is to utilise WordPress's features to create custom websites.
 # Career/Employability/Learning Insights
+Helps broaden my perspective and makes me curious to the many aspects of computer science and IT. The more my curiosity, the more motivation I have to learn my subjects and complete assessments. Much more confident in WordPress and the available features for custom website building.
