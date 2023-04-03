@@ -7,7 +7,7 @@ watched LinkedIn Learning Course 'WordPress: Building Child Themes'
 - https://wpshout.com/wordpress-template-hierarchy/
 - https://www.linkedin.com/learning/wordpress-building-child-themes-3/including-stylesheets?autoSkip=true&autoplay=true&resume=false&u=2223545
 # Estimated Hours
-30 mins
+1 hour
 # Content Insights
 - I previously wasn't aware of the difference between templates and themes and how to use them properly. The 'wpshout' article explicitly tells the difference between the two, more specifically templates and the 'WordPress Template Hierarchy'. 'index.php' is the final fallback template page file for the template hierarchy. Once the hierarchy is understood, you can make WordPress themes that benefit from this knowledge by simply creating and modifying the proper template files to affect the desired webpages.  
 - 
