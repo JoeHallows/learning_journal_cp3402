@@ -13,9 +13,10 @@ Completed LinkedIn learning course 'Content Creation: Strategy and Tools'
 - https://youtu.be/unityETmypk    
 - https://youtu.be/fDbxPVn02VU    
 - https://youtu.be/Mj3QejzYZ70     
+- https://www.linkedin.com/learning/content-creation-strategy-and-tools/content-creation-using-the-right-tools?autoSkip=true&autoplay=true&resume=false&u=2223545     
 - 
 # Estimated Hours
-2 hours 10 minutes
+3 hours
 # Content Insights
 - Creat a 'safety net' to maintain focus and motivation, learn the core skills of any subject first, then learn what's hard for you and work from more important stuff through to less and less important aspects of that subject. Anything else that you don't care learning about and/or is unimportant, don't learn.    
 - When reading/learning in general, highlight key parts and make relevant notes during to revise after. Once these notes are taken, categorise them well to utilise or refer to later, creating a place outside your brain to store info, ideas, quotes, etc. A 'second brain' if you will.     
@@ -34,8 +35,13 @@ Completed LinkedIn learning course 'Content Creation: Strategy and Tools'
 - From a Social Media Marketing expert, create quality content that inspires, educates, and entertains! Grow your audience & build trust, become an authority, and generate more leads. Content gains traction which builds relationships! Creating strategic content is an essential marketing technique for any business.
 - There are four phases in the content creation process: 
 1. Ideation: Think big and get your ideas down! Crucial to be guided by research. What is your target audience looking for? What do they care about? What are some of their common question? What are they currently struggling with? What are their objections/common mistakes? Understand the competitor's content!
-2. Planning: Take the ideas you've brainstormed & create a plan as to how to produce your content. Use a content calendar! sort ideas into 'pillars'(?), Choose the platforms being used, and choose when to share your content. This will give you a sense of purpose and direction for each piece of content.
+2. Planning: Take the ideas you've brainstormed & create a plan as to how to produce your content. Use a content calendar! sort ideas into 'pillars', Choose the platforms to use, and choose when to share your content. This will give you a sense of purpose and direction for each piece of content.
 3. Creation: Make your ideas into actual content! Do content batching: create a bunch of content in advance to speed up workflow and save time. Work in chunks: work on one type of task in one chunk of time, which will improve focus, minimising going back and forth between multiple tasks.
 4. Scheduling: Use a scheduling tool to publish content automatically on the right platforms at the right time. Once scheduled, it frees up time to focus on other work for your brand & business.
-- The more relevant your content, the more likely your ideal audience will be interested in it. You can use 'Ubersuggest', a keyword research tool for brainstorming content ideas for your target audience. It's not about producing more content, but producing better content that your target audience will want to respond to.
+- The more relevant your content, the more likely your ideal audience will be interested in it. You can use 'Ubersuggest', a keyword research tool for brainstorming content ideas for your target audience in the ideation phase. It's not about producing more content, but producing better content that your target audience will want to respond to.
+- Content calendars keeps your content organised, maintains consistency, reduced stress, helps you be strategic, and allows for collaboration. Use 'Airtable'!
+- Use 'WordTune', an AI content creating tool for creating content!
+- Use 'Canva' for social media graphics!
+- Use 'Mojo' to create engaging video content!
+- use 'Facebook Creator Studio' to automate posting!
 # Career/Employability/Learning Insights
