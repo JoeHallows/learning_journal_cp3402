@@ -32,6 +32,6 @@ Completed LinkedIn learning course 'Content Creation: Strategy and Tools'
 - Use active recall! Instead of summarising/taking notes, write down questions for yourself to answer when revising. Helps you become better at retrieving info from your brain. Practice taking stuff out of your brain, rather than putting stuff in. Combine active recall & spaced repetition: repeatedly ask yourself questions over spaced intervals.     
 - Learn through experience by doing projects instead of wasting your time only watching tutorials.      
 - From a Social Media Marketing expert, create quality content that inspires, educates, and entertains! Grow your audience & build trust, become an authority, and generate more leads. Content gains traction which builds relationships! Creating strategic content is an essential marketing technique for any business.
-There are four phases in the content creation process: 
+- There are four phases in the content creation process: 
 1. 
 # Career/Employability/Learning Insights
