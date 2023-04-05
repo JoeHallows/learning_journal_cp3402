@@ -33,5 +33,8 @@ Completed LinkedIn learning course 'Content Creation: Strategy and Tools'
 - Learn through experience by doing projects instead of wasting your time only watching tutorials.      
 - From a Social Media Marketing expert, create quality content that inspires, educates, and entertains! Grow your audience & build trust, become an authority, and generate more leads. Content gains traction which builds relationships! Creating strategic content is an essential marketing technique for any business.
 - There are four phases in the content creation process: 
-1. 
+1. Ideation: Think big and get your ideas down! Crucial to be guided by research. What is your target audience looking for? What do they care about? What are some of their common question? What are they currently struggling with? What are their objections/common mistakes? Understand the competitor's content!
+2. Planning: Take the ideas you've brainstormed & create a plan as to how to produce your content. Use a content calendar! sort ideas into 'pillars'(?), Choose the platforms being used, and choose when to share your content. This will give you a sense of purpose and direction for each piece of content.
+3. Creation: Make your ideas into actual content! Do content batching: create a bunch of content in advance to speed up workflow and save time. Work in chunks: work on one type of task in one chunk of time, which will improve focus, minimising going back and forth between multiple tasks.
+4. Scheduling: Use a scheduling tool to publish content automatically on the right platforms at the right time. Once scheduled, it frees up time to focus on other work for your brand & business.
 # Career/Employability/Learning Insights
