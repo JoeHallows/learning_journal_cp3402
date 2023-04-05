@@ -1,16 +1,17 @@
 # Week
 6
 # Learning Activities
-Watching YouTube video from Elizabeth Filips 'You're Not Slow: Become a Speed Learner in 20 Minutes'     
-Watching YouTube Video from Matt D'Avella 'I learned a system for remembering everything'
-Watching YouTube Video from Ali Adball 'How to Learn Anything FASTER'
+Watching YouTube video from Elizabeth Filips 'You're Not Slow: Become a Speed Learner in 20 Minutes'      
+Watching YouTube Video from Matt D'Avella 'I learned a system for remembering everything'      
+Watching YouTube Video from Ali Adball 'How to Learn Anything FASTER'      
+Watching YouTube Video from Ali Adball 'How my friend ranked 1st at Medical School - The Active Recall Framework'
 # Resources/Links
 - https://youtu.be/_wzJnWCBWkI    
 - https://youtu.be/Rvey9g0VgY0    
 - https://youtu.be/unityETmypk    
-- 
+- https://youtu.be/fDbxPVn02VU     
 # Estimated Hours
-1 hour 15 minutes
+1 hour 45 minutes
 # Content Insights
 - Creat a 'safety net' to maintain focus and motivation, learn the core skills of any subject first, then learn what's hard for you and work from more important stuff through to less and less important aspects of that subject. Anything else that you don't care learning about and/or is unimportant, don't learn.    
 - When reading/learning in general, highlight key parts and make relevant notes during to revise after. Once these notes are taken, categorise them well to utilise or refer to later, creating a place outside your brain to store info, ideas, quotes, etc. A 'second brain' if you will.     
@@ -23,5 +24,6 @@ Watching YouTube Video from Ali Adball 'How to Learn Anything FASTER'
 6. Get intense feedback often (Feedback as often & as quickly as possible! However, when starting out we need positivity & enthusiasm rather than critical feedback. Tight feedback loops - there and then - encourage learning)
 7. Over-learning (Learn the area/subject/skill in more depth than necessary. continually ask 'why')
 8. Spacing (Spaced repetition to counteract 'The forgetting curve': Repeat at spaced intervals)
-9. Teach what you're learning ('The curse of knowledge': we learn best from people who are just one step ahead of us on the same journey. We prefer a guide to a guru, and rather be a guide than a guru.)
+9. Teach what you're learning ('The curse of knowledge': we learn best from people who are just one step ahead of us on the same journey. We prefer a guide to a guru, and rather be a guide than a guru.)         
+-  Use active recall! Instead of summarising/taking notes, write down questions for yourself to answer when revising. Helps you become better at retrieving info from your brain. Practice taking out info from your brain, rather than putting stuff in.
 # Career/Employability/Learning Insights
