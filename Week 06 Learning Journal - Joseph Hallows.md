@@ -44,3 +44,8 @@ Completed LinkedIn learning course 'Content Creation: Strategy and Tools'
 - Use 'Mojo' to create engaging video content!
 - use 'Facebook Creator Studio' to automate posting!
 # Career/Employability/Learning Insights
+I used these videos to assist me in becoming a better, faster and more reliant learner with techniques that will help me become a better student in this final year. 
+This will transfer to my skills that I will utilise once I obtain a job in the IT field. These techniques will also give me more confidence in my work, meaning I will get better results in a shorter period of time.
+I dived in more specifically to learning coding more effectively, and the final message was to undertake more projects to gain first-hand experience.
+These experiences will definitely assist me if I have a job with any coding involved.
+I also became curious about content strategies for social media, etc, so I looked at a short course on linkedIn, and the 4-step process really simplified to me the work needed to effectively use social media as a business tool, which I can use for almost any job.
