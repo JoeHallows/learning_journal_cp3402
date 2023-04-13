@@ -19,7 +19,7 @@ Completed LinkedIn learning course 'Content Creation: Strategy and Tools'
 # Content Insights
 - Creat a 'safety net' to maintain focus and motivation, learn the core skills of any subject first, then learn what's hard for you and work from more important stuff through to less and less important aspects of that subject. Anything else that you don't care learning about and/or is unimportant, don't learn.    
 - When reading/learning in general, highlight key parts and make relevant notes during to revise after. Once these notes are taken, categorise them well to utilise or refer to later, creating a place outside your brain to store info, ideas, quotes, etc. A 'second brain' if you will.     
-- Here are 9 tips to learn anything FASTER! 
+- Here are 9 tips to learn anything FASTER!:
 1. Sharpen the axe (The power of preparation). 
 2. Use crutches to optimise your focus (The 5-minute rule: convince yourself to focus on a task for only 5 minutes, and you can stop after that, although you will most likely keep doing that task.) 
 3. Find opportunities for immersion (Immerse yourself! You learn best in the environment you're going to be using the skill)
