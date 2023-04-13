@@ -27,7 +27,7 @@ Completed LinkedIn learning course 'Content Creation: Strategy and Tools'
 5. Test yourself! (Conduct active recall: you don't learn by putting stuff into your brain, but by taking stuff out of it + The Desirable Difficulty Concept: Compete with someone at your level or at a slightly higher level for the best learning opportunities)
 6. Get intense feedback often (Feedback as often & as quickly as possible! However, when starting out we need positivity & enthusiasm rather than critical feedback. Tight feedback loops - there and then - encourage learning)
 7. Over-learning (Learn the area/subject/skill in more depth than necessary. continually ask 'why')
-8. Spacing (Spaced repetition to counteract 'The forgetting curve': Repeat at spaced intervals)
+8. Spacing (Spaced repetition to counteract 'The forgetting curve': Repeat active recall of the subject at spaced intervals)
 9. Teach what you're learning ('The curse of knowledge': we learn best from people who are just one step ahead of us on the same journey. We prefer a guide to a guru, and rather be a guide than a guru.)         
 - Use active recall! Instead of summarising/taking notes, write down questions for yourself to answer when revising. Helps you become better at retrieving info from your brain. Practice taking stuff out of your brain, rather than putting stuff in. Combine active recall & spaced repetition: repeatedly ask yourself questions over spaced intervals.     
 - Learn through experience by doing projects instead of wasting your time only watching tutorials.      
