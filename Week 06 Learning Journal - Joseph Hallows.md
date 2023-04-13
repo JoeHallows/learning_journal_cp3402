@@ -13,8 +13,7 @@ Completed LinkedIn learning course 'Content Creation: Strategy and Tools'
 - https://youtu.be/unityETmypk    
 - https://youtu.be/fDbxPVn02VU    
 - https://youtu.be/Mj3QejzYZ70     
-- https://www.linkedin.com/learning/content-creation-strategy-and-tools/content-creation-using-the-right-tools?autoSkip=true&autoplay=true&resume=false&u=2223545     
-- 
+- https://www.linkedin.com/learning/content-creation-strategy-and-tools/content-creation-using-the-right-tools?autoSkip=true&autoplay=true&resume=false&u=2223545
 # Estimated Hours
 3 hours
 # Content Insights
