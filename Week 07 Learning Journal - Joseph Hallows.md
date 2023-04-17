@@ -6,7 +6,7 @@ Completed LinkedIn learning course 'Content Creation: Strategy and Tools'
 # Resources/Links
 - https://youtu.be/_wzJnWCBWkI
 # Estimated Hours
-0 minutes
+01 minutes
 # Content Insights
 - 
 # Career/Employability/Learning Insights
