@@ -31,11 +31,11 @@ Completed LinkedIn learning course 'Cybersecurity Awareness: Cybersecurity Termi
 - Taking control! (2 parts):      
 1. Accept your emotions      
 2. Slow down your reactions (5 parts)        
-1. identify the emotional reaction.      
-2. Remove yourself from the situation.      
-3. Give yourself time to recover.      
-4. Challenge your thoughts.        
-5. Choose how to respond          
+   1. identify the emotional reaction.      
+   2. Remove yourself from the situation.      
+   3. Give yourself time to recover.      
+   4. Challenge your thoughts.        
+   5. Choose how to respond          
 - You need to personally understand how you react to events!      
 - Emotional hijacking: Trigger --> Emotions --> Irrational Response     
 - Trigger(s) --> events/thoughts that consistently take you in the wrong direction       
