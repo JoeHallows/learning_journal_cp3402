@@ -9,7 +9,7 @@ Completed LinkedIn learning course 'Developing Your Emotional Intelligence'
 - https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/apply-cybersecurity-terminology?autoSkip=true&autoplay=true&resume=false&u=2223545     
 - https://www.linkedin.com/learning/developing-your-emotional-intelligence/shift-perspective-to-shape-behavior?autoSkip=true&autoplay=true&resume=false&u=2223545
 # Estimated Hours
-3 hours 40 minutes
+4 hours 45 minutes
 # Content Insights
 - Looking at data structures! Arrays, linked lists, hash tables, and how they store and link bits of memory.
 - With linked lists, you can free one node at a time, instead of free-ing the whole list via arrays.     
@@ -47,6 +47,21 @@ Completed LinkedIn learning course 'Developing Your Emotional Intelligence'
 - C - Consequences     
 - D - Disrupting thoughts (About replacing beliefs and feelings about the event with something more useful)     
 - E - Effect    
-- Break the chain between thinking/feeling and reacting      
+- Break the chain between thinking/feeling and reacting   
+- Tips to Broaden your Perspective (4 parts)!:      
+1. Seek out different points of view      
+2. Ask more questions      
+3. Get acquainted with new people       
+4. Read books on a variety of topics      
+- Social Awareness: Being able to understand others and respond to their needs:          
+1. use your senses to actively gather information         
+2. Seek to understand other's thoughts and relationship dynamics        
+- When conveying empathy to another, use tentative, exploratory language, and words like 'possibly', and 'maybe'         
+- Ultimately, people want to be understood, and want to make connections       
+- Conversing is providing and gathering information      
+- Listen! to: words, tone, and body language      
+- Utilize your own unique style when managing relationships - Connect to build trust        
+- Intent and key messages (Not exactly what you are going to say)        
+- 
 # Career/Employability/Learning Insights
 - Understanding data structures helps with storage & efficiency!
