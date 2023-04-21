@@ -20,7 +20,7 @@ Watching YouTube video from Ali Abdaal '6 AI Tools I Use to Boost My Productivit
 - https://youtu.be/KzKoEogT5zc       
 - https://youtu.be/XhtE_fkcoZw       
 # Estimated Hours
-9 hours 02 minutes
+9 hours 17 minutes
 # Content Insights
 - Looking at data structures! Arrays, linked lists, hash tables, and how they store and link bits of memory.
 - With linked lists, you can free one node at a time, instead of free-ing the whole list via arrays.     
