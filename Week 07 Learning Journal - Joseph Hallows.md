@@ -10,7 +10,8 @@ Completed LinkedIn learning course 'Strategic Thinking'
 - https://youtu.be/-gpsiMiEOHU      
 - https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/apply-cybersecurity-terminology?autoSkip=true&autoplay=true&resume=false&u=2223545     
 - https://www.linkedin.com/learning/developing-your-emotional-intelligence/shift-perspective-to-shape-behavior?autoSkip=true&autoplay=true&resume=false&u=2223545      
-- https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?autoSkip=true&autoplay=true&resume=false&u=2223545
+- https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?autoSkip=true&autoplay=true&resume=false&u=2223545      
+- https://www.linkedin.com/learning/strategic-thinking/welcome-to-strategic-thinking?autoplay=true&u=2223545     
 # Estimated Hours
 8 hours 30 minutes
 # Content Insights
