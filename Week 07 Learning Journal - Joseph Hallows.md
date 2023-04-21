@@ -5,15 +5,22 @@ Watching YouTube video from CS50 (Harvard University) 'CS50 2021 in HDR - Lectur
 Completed LinkedIn learning course 'Cybersecurity Awareness: Cybersecurity Terminology'     
 Completed LinkedIn learning course 'Developing Your Emotional Intelligence'       
 Completed LinkedIn learning course 'Cybersecurity Foundations'      
-Completed LinkedIn learning course 'Strategic Thinking'      
+Completed LinkedIn learning course 'Strategic Thinking'         
+Watching YouTube video from Cajun Koi Academy 'How I Organize My Busy Schedule (Student Edition)'      
+Watching YouTube video from Cajun Koi Academy 'How I use Notion to organize my school life'      
+Watching YouTube video from Cajun Koi Academy 'Why a study system solves all your problems (w/ Notion AI)'       
+Watching YouTube video from Ali Abdaal '6 AI Tools I Use to Boost My Productivity'       
 # Resources/Links
 - https://youtu.be/-gpsiMiEOHU      
 - https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/apply-cybersecurity-terminology?autoSkip=true&autoplay=true&resume=false&u=2223545     
 - https://www.linkedin.com/learning/developing-your-emotional-intelligence/shift-perspective-to-shape-behavior?autoSkip=true&autoplay=true&resume=false&u=2223545      
 - https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?autoSkip=true&autoplay=true&resume=false&u=2223545      
 - https://www.linkedin.com/learning/strategic-thinking/welcome-to-strategic-thinking?autoplay=true&u=2223545     
+- https://youtu.be/XqdDMNExvA0       
+- https://youtu.be/KzKoEogT5zc       
+- https://youtu.be/XhtE_fkcoZw       
 # Estimated Hours
-8 hours 30 minutes
+9 hours 02 minutes
 # Content Insights
 - Looking at data structures! Arrays, linked lists, hash tables, and how they store and link bits of memory.
 - With linked lists, you can free one node at a time, instead of free-ing the whole list via arrays.     
