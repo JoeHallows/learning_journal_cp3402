@@ -1,11 +1,11 @@
 # Week
 7
 # Learning Activities
-Watching YouTube video from CS50 (Harvard University) 'CS50 2021 in HDR - Lecture 5 - Data Structures'       
-Completed LinkedIn learning course 'Cybersecurity Awareness: Cybersecurity Terminology'
-Completed LinkedIn learning course 'Developing Your Emotional Intelligence'
-Completed LinkedIn learning course 'Cybersecurity Foundations'
-Completed LinkedIn learning course 'Strategic Thinking'
+Watching YouTube video from CS50 (Harvard University) 'CS50 2021 in HDR - Lecture 5 - Data Structures'         
+Completed LinkedIn learning course 'Cybersecurity Awareness: Cybersecurity Terminology'     
+Completed LinkedIn learning course 'Developing Your Emotional Intelligence'       
+Completed LinkedIn learning course 'Cybersecurity Foundations'      
+Completed LinkedIn learning course 'Strategic Thinking'      
 # Resources/Links
 - https://youtu.be/-gpsiMiEOHU      
 - https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/apply-cybersecurity-terminology?autoSkip=true&autoplay=true&resume=false&u=2223545     
