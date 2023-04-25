@@ -112,7 +112,7 @@ Watching YouTube video from Ali Abdaal '6 AI Tools I Use to Boost My Productivit
 3. Is there a more promising alternative?      
 - Mike Tyson "Everybody has a plan until they get punched in the mouth"
 # Career/Employability/Learning Insights
-- Understanding data structures helps with storage & efficiency!     
+- Understanding data structures helps with storage & efficiency, which is part of most IT fields!     
 - Becoming adept at emotional intelligence will help me tackle difficult situations in work scenarios! People will recognise that I am more in control of my emotions, therefore more stable, therefore more reliable. Better tools at conversing such as active listening, good questions, empathetic towards others, and value dynamic relationships.     
 - Gaining further explanation on the foundations of cybersecurity will help me build my knowledge, which will help me gain a job in this field in the future.     
 - Strategic thinking is a powerful tool to help me think long-term in relation to my job and career. These tools will help teach me how to leverage my assets and allies to reach long-term goals I am aiming towards.
