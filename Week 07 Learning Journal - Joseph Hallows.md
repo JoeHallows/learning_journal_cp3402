@@ -18,7 +18,8 @@ Watching YouTube video from Ali Abdaal '6 AI Tools I Use to Boost My Productivit
 - https://www.linkedin.com/learning/strategic-thinking/welcome-to-strategic-thinking?autoplay=true&u=2223545     
 - https://youtu.be/XqdDMNExvA0       
 - https://youtu.be/KzKoEogT5zc       
-- https://youtu.be/XhtE_fkcoZw       
+- https://youtu.be/XhtE_fkcoZw         
+- https://youtu.be/WoNZUlRu168        
 # Estimated Hours
 9 hours 17 minutes
 # Content Insights
