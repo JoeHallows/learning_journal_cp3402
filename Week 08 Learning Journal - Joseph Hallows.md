@@ -12,5 +12,5 @@ Watching YouTube video from Aperture 'The Scariest Thing About ChatGPT No One Is
 # Content Insights
 - Artificial intelligence via LLM (Large Language Models) are going to be an integral part of daily life in the near future!      
 # Career/Employability/Learning Insights
-- I can use ChatGBT to write essays, ask for summarizations of books, produce working code, and give condensed information about specific topics relatively quickly! Not all of it will be correct at this point in time, but it is becoming larger adn smarter every day, showing that we are at the point of another technological peak with the birth of AI.       
+- I can use ChatGBT to write essays, ask for summarizations of books, produce working code, and give condensed information about specific topics relatively quickly! Not all of it will be correct at this point in time, but it is becoming larger and smarter every day, showing that we are at the point of another technological peak with the birth of AI (dun dun dun).       
 - 
