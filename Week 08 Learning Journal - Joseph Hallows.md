@@ -10,11 +10,14 @@ watched part of LinkedIn learning course 'Learning PHP'
 # Resources/Links
 - Shown Above
 # Estimated Hours
-1 hour 10 minutes
+2 hour 26 minutes
 # Content Insights
 - Artificial intelligence via LLM (Large Language Models) are going to be an integral part of daily life in the near future!        
 - The foundations of Teaching AI's Neural Networks via Machine Learning        
-- PHP (PHP: Hypertext Preprocessor) is a server-side code. All files should be called '.php' even if there is no php code to give you freedom to add php code later without having to refactor files.
+- PHP (PHP: Hypertext Preprocessor) is a server-side code. All files should be called '.php' even if there is no php code to give you freedom to add php code later without having to refactor files.      
+- Variables always start with $         
+- Letters, numbers, and the underscore are permitted, but the first char after $ can't be a number.        
+- No spaces or hyphens for variable names, and they are case-sensitive        
 # Career/Employability/Learning Insights
 - I can use ChatGBT to write essays, ask for summarizations of books, produce working code, and give condensed information about specific topics relatively quickly! Not all of it will be correct at this point in time, but it is becoming larger and smarter every day, showing that we are at the point of another technological peak with the birth of AI (dun dun dun).       
 - 
