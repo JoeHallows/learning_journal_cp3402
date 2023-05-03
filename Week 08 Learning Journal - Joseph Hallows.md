@@ -2,7 +2,7 @@
 8
 # Learning Activities
 Watched YouTube video from TED 'The Inside Story of ChatGPT’s Astonishing Potential | Greg Brockman | TED' - https://youtu.be/C_78DM8fG6E     
-Watched YouTube video from Marques Brownlee 'The AI Assistant Battle! (2023)s' - https://youtu.be/HKvo6acp5aI        
+Watched YouTube video from Marques Brownlee 'The AI Assistant Battle! (2023)' - https://youtu.be/HKvo6acp5aI        
 Watched YouTube video from Aperture 'The Scariest Thing About ChatGPT No One Is Talking About' - https://youtu.be/5H-3lYvLsYk       
 Watched YouTube video from TheAIGRID 'Open AI CEO SHOCKS Everybody About GPT-5 (GPT-5 Update)' - https://youtu.be/3efMy9qf5Jg      
 watched LinkedIn learning course 'Artificial Intelligence Foundations: Neural Networks' - https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks/welcome?autoplay=true&u=2223545      
