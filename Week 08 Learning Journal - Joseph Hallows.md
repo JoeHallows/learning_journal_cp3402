@@ -23,7 +23,7 @@ watched part of LinkedIn learning course 'Learning PHP' - https://www.linkedin.c
 - Learning PHP at this stage is giving me confidence in how quickly I picked up the basics of a new coding language quickly, form syntax importance to naming variable conventions.
 # Theory
 I believe it's true that written notes are easier to understand when the perspective is for someone reading the notes in the future.       
-I know this is true when I read notes I write in this perspective and understand what the notes are about, in general and specifically, rather than confusion in the specifics of the topic and holes of understanding.    
+I know this is true when I read notes I write in this perspective and understand what the notes are about, in general and specifically, rather than confusion regarding the specifics of the topic and holes in the reader's understanding.    
 # Results (Content & Learning Insights)
 Content insights: When writing notes, you have to dive deeper and deeper into specifics since you may think what you have just learnt will stay with you forever, but realistically in a week or so it will be difficult to recall. With this in mind, a topic must be described in detail until you explain all related specifics. No specifics can be left out, otherwise when read in the future there may be holes of understanding.       
 Learning insights: To write specific notes, you must learn all the related specifics, rather than just learning the general content basis and diving into specifics you are curious about. Sometimes it is uncertain how specific you must be, but the best target would be to describe it to someone who knows nothing about the topic.       
