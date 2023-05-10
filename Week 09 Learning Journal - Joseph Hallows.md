@@ -6,7 +6,7 @@ Watched Lindsay Ward's CMS Lecture Recording "Lecture Recording 09- Sass"
 # Resources/Links
 - Shown Above
 # Estimated Hours
-2 hour 20 minutes
+2 hour 55 minutes
 # Content Insights
 - Every major piece of content usually has its own template file!       
 - "functions.php" is going to be updated considerably through the development of our CMS.       
