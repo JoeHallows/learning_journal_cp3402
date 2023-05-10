@@ -26,4 +26,5 @@ Watched Lindsay Ward's CMS Lecture Recording "Lecture Recording 09- Sass"
 - 
 # Career/Employability/Learning Insights
 - PHP may be daunting to start off with, but once you learn the relevant php files in relation to the website pages, and understand the functions within these php files, you may edit it as desired.      
-- 
+- I didn't install the global version of sass (npm install -g sass) so no matter what I did to my .scss file it did not update my .css file in real-time. This problem took quite a while to track down.     
+- Nesting keeps related functions in a hierarchical format, and was quick to implement. Mixins prevents D.R.Y! There were no examples of .css 'extend/inheritance', so I could not change 'theadviceshop' website code to the .scss format.     
