@@ -2,11 +2,11 @@
 9
 # Learning Activities
 Watched LinkedIn Learning course 'WordPress: Building Themes from Scratch Using Underscores' - https://www.linkedin.com/learning/wordpress-building-themes-from-scratch-using-underscores-2/install-the-developer-plugin-and-other-useful-plugins?autoSkip=true&autoplay=true&resume=false&u=2223545        
-Watched Lindsay Ward's CMS Lecture Recording "Lecture Recording 09- Sass"
+Watched Lindsay Ward's CMS Lecture Recording "Lecture Recording 09 - Sass"
 # Resources/Links
 - Shown Above
 # Estimated Hours
-2 hour 55 minutes
+5 hours
 # Content Insights
 - Every major piece of content usually has its own template file!       
 - "functions.php" is going to be updated considerably through the development of our CMS.       
