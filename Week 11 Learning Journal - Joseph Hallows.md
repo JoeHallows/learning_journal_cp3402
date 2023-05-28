@@ -13,7 +13,6 @@ Watched YouTube video of TheAIGRID's 'Microsofts New CHATGPT UDPATE Has Everyone
 - For example, if you ask it for a good recipe, you can now use a plugin to buy the recipe ingredients and have it delivered to your door within 90 minutes!
 - The updated version includes more recent results, and now includes citations which through a link takes you to the original content.          
 - Introduced 'Windows Copilot', an AI powered assistant for your entire computer that is integrated into all of Windows.      
-- 
 # Career/Employability/Learning Insights
 - AI is becoming incredibly powerful exponentially since the 'AI race' has begun between multiple organisations, such as Microsoft, Google, etc.              
 - The timeline of AI has quickly shifted into overdrive and has already surpassed expectations.         
