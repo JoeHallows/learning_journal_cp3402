@@ -7,10 +7,10 @@ Watched YouTube video of TheAIGRID's 'Microsofts New CHATGPT UDPATE Has Everyone
 # Estimated Hours
 10 minutes
 # Content Insights
-## GPT-4's New Update      
+## Bing/GPT-4's New Update  
+- Microsoft's AI 'Bing' is becoming integrated with CHATGPT to create a stronger AI that is seamless across multiple platforms.   
 - The newest update for ChatGPT/Bing now includes plugins that you can use for a variety of activities!           
-- For example, if you ask it for a good recipe, you can now use a plugin to buy the recipe ingredients and have it delivered to your door within 90 minutes!               
-- Microsoft's AI 'Bing' is becoming integrated with CHATGPT to create a stronger AI that is seamless across multiple platforms.          
+- For example, if you ask it for a good recipe, you can now use a plugin to buy the recipe ingredients and have it delivered to your door within 90 minutes!
 - The updated version includes more recent results, and now includes citations which through a link takes you to the original content.          
 - Introduced 'Windows Copilot', an AI powered assistant for your entire computer that is integrated into all of Windows.      
 - 
